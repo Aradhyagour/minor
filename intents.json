@@ -372,7 +372,23 @@
         "responses": [
           "If your employer does not comply with the Payment of Wages (Mines) Rules, 1956, you can file a complaint with the labor authorities or the appropriate regulatory body. Legal action can be taken against non-compliant employers."
         ]
-      }
+      },
+      {
+  "tag": "project_info",
+  "patterns": [
+    "What is this project",
+    "Tell me about this chatbot",
+    "What does this chatbot do",
+    "Explain your project"
+  ],
+  "responses": [
+    "This is an AI-based chatbot developed using Natural Language Processing and Machine Learning.",
+    "The chatbot is designed to answer user queries using an intent-based NLP model.",
+    "This project demonstrates how machine learning and NLP can be used to build intelligent chat systems."
+  ]
+}
       
   ]
 }
+
+
